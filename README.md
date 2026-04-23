@@ -2,4 +2,4 @@
 
 This is my first GitHub project.
 
-Author: Himanshu
+Author: Himanshu sachan singh
